@@ -1,0 +1,26 @@
+{
+  "name": "pearl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamil-Fr/Pearlstore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamil-Fr/Pearlstore/issues"
+  },
+  "homepage": "https://github.com/Kamil-Fr/Pearlstore#readme",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
